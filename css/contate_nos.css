@@ -1,0 +1,45 @@
+.mai {
+    width: 60%;
+    height: 9rem;
+    border-style: solid;
+    border-color: black;
+    border-radius: 0.5rem;
+    background-color: #444444;
+    color: #ffffff;
+}
+
+.ema {
+    width: 60%;
+    border-color: black;
+    border-radius: 0.5rem;
+    background-color: #444444;
+    color: #ffffff;
+}
+
+.espa {
+    padding-top: 2.4rem;
+    padding-bottom: 0.5rem;
+}
+
+body {
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    color: #ffffff;
+    background-color: #272727;
+}
+
+.enter {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.inter {
+    background-color: #0000ff;
+    color: #ffffff;
+    border: none;
+    border-radius: 9rem;
+    width: 10rem;
+    height: 4rem;
+    font-size: 1.7rem;
+    font-family: arial;
+}

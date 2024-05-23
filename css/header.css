@@ -1,0 +1,20 @@
+.grid2{
+    grid-template-columns: 1fr ;
+}
+.sidebar{
+    display: flex;
+    overflow: scroll;
+}
+.sidebar > div{
+    flex: 1 0 100px;
+    margin: 0 10px;
+}
+.card{
+    border-color: #0051ff;
+    color: #0051ff;
+}
+.nomes{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    color: #ffffff;
+}
